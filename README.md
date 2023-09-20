@@ -28,5 +28,7 @@ Montagem do portifólio Java com vários projetos em várias áreas de estudo.
 12. Cada animais terá um nível mínimo de saciedade para sentir fome.
 13. Cada alimento terá o quanto de saciedade ele irá oferecer para o animal.
 14. Se a fome de um animal chegar a 0, ele morrerá. E isso resultará em prejuízo para o zoológico.
-
+15. Cada animal terá dimensões (x,y,z).
+16. Cada hábitat terá dimensões (x,y,z).
+17. O Habitat não poderá ter mais animais do que as dimensões permitam.
 
